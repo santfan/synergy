@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "6b1e2c6ac409d61f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1df578a246fc6b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Анализ данных/Учебные материалы.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49a77d75a079d2be",
+    "type": "split",
+    "children": [
+      {
+        "id": "81df2dab519b2a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bdb234e198f81b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "490a0c5db01e158d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a297c37fa20d89b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25e61e9f1315c039",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b769a90e49f1a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b00d04c15c9825",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Анализ данных/Учебные материалы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a98e613501cf223",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Анализ данных/Учебные материалы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae897ab1a3a3694c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d25a4f5ca3d7f73d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Анализ данных/Учебные материалы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b1df578a246fc6b5",
+  "lastOpenFiles": [
+    "Линейная алгебра и математика, статистика/Учебные материалы.md",
+    "Анализ данных/Учебные материалы.md"
+  ]
+}
